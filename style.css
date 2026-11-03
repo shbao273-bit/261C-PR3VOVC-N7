@@ -352,7 +352,6 @@ border: 1px solid #c6d0dd;
 .hero-image-frame {
 position: relative;
 z-index: 1;
-background: #e3e7ed;
 overflow: hidden;
 box-shadow: 0 20px 50px rgba(16, 29, 53, 0.12);
 }
